@@ -1,3 +1,7 @@
+/*
+	author: dbot5
+*/
+
 package main
 
 import (
